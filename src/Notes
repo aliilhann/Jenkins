@@ -1,0 +1,8 @@
+CI/CD:
+      Continuous integration and continuous development
+      All the software that we use weather it is a website or app or any operating system.
+      They are in a continue state of change. We need to continously develop and update these software so that the customer
+      can use the latest features. Jenkins is one such software tht will help us automate this process.
+
+      1) Once the software is ready and looks good on the developers machine. Developer pushes that code to the
+      development server.
